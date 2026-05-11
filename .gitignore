@@ -1,0 +1,5 @@
+.gemini/
+docs/
+design-system/
+node_modules/
+.env
