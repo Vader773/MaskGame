@@ -1,0 +1,7 @@
+feat(ui): redesign landing page to match deep blue aesthetic
+
+- Replace Tailwind CDN with custom vanilla CSS
+- Add particles, parallax, cursor glow, and ambient orbs
+- Change CTA colors from orange to cyan for theme cohesion
+- Simplify hero CTA to single button linking to footer form
+- Enlarge footer waitlist form to prevent text truncation
